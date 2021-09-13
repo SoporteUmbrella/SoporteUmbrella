@@ -1,13 +1,1 @@
-- 👋 Hi, I’m @SoporteUmbrella
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SoporteUmbrella/SoporteUmbrella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-320 / 5000
-Resultados de traducción
 Hello, I am interested in developing a simple program to make queries in excel and txt files. Based mainly on SQL and PHP code. Please, if this community can help me with a project that serves as a guide, to start from there with what I want to develop, I would be very grateful. 
